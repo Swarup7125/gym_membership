@@ -1,0 +1,12 @@
+[
+  {
+    "id": "seed_1",
+    "name": "Seed Member",
+    "phone": "9000000000",
+    "email": "seed@example.com",
+    "plan": "Monthly",
+    "joinDate": "2026-03-01",
+    "expiryDate": "2026-04-01"
+  }
+]
+
